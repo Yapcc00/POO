@@ -1,4 +1,7 @@
-package com.mycompany.POO;
+
+package com.mycompany.herencia;
+
+
 public class Consultor extends Persona {
 
     String nombre_consultora;
