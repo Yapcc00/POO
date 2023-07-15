@@ -1,5 +1,4 @@
-package com.mycompany.herencia;
-
+package com.mycompany.POO;
 public class Persona {
 
     int id;

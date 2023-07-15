@@ -1,6 +1,4 @@
-
-package com.mycompany.herencia;
-
+package com.mycompany.POO;
 public class Empleado extends Persona {
     int num_legajo;
     String cargo;
