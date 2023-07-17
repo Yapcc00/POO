@@ -1,4 +1,4 @@
-/*
+
 
 package com.mycompany.interfaz;
 
@@ -34,5 +34,3 @@ public class Circulo implements Figura, Dibujable, Rotable {
 
 
 }
-
- */
