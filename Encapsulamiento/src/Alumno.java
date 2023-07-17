@@ -1,5 +1,4 @@
 
-/*
 public class Alumno {
     private int id;
     private String nombre;
@@ -41,5 +40,3 @@ public class Alumno {
 
 
 }
-
- */
