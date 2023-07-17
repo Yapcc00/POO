@@ -1,4 +1,3 @@
-/*
 public class Encapsulamiento2 {
 
     public static void main(String[] args) {
@@ -11,4 +10,3 @@ public class Encapsulamiento2 {
         System.out.println("Apellido:" + alu2.getApellido());
     }
 }
-*/

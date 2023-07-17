@@ -1,4 +1,3 @@
-/*
 
 public class Cuadrado extends Figura {
 
@@ -20,6 +19,3 @@ public class Cuadrado extends Figura {
     }
 
 }
-
-
- */
