@@ -1,5 +1,3 @@
-/*
-
 package com.mycompany.interfaz;
 
 public class Cuadrado implements Figura, Dibujable {
@@ -22,4 +20,3 @@ public class Cuadrado implements Figura, Dibujable {
     }
 }
 
- */
