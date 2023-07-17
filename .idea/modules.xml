@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inerfaz/Inerfaz.iml" filepath="$PROJECT_DIR$/Inerfaz/Inerfaz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logica/Logica.iml" filepath="$PROJECT_DIR$/Logica/Logica.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
     </modules>
