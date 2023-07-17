@@ -1,6 +1,4 @@
 
-/*
-
 public abstract class Figura {
 
     protected double x; // pos en x
@@ -18,5 +16,3 @@ public abstract class Figura {
 
 
 }
-
- */
