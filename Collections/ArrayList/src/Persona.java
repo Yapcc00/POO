@@ -1,5 +1,3 @@
-/*
-
 package com.mycompany.interfaz;
 
 
@@ -40,5 +38,3 @@ public class Persona {
 
 
 }
-
- */
