@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logica/Logica.iml" filepath="$PROJECT_DIR$/Logica/Logica.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pila/Pila.iml" filepath="$PROJECT_DIR$/Pila/Pila.iml" />
     </modules>
   </component>
 </project>
